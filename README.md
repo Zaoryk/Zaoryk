@@ -11,7 +11,6 @@ Passionate about **software engineering, security, and system optimization**
 - Currently finishing my degree in **Computer Science**
 - Transitioning into **Cybersecurity** (focus on defensive security, incident response, and ethical hacking)
 - Interested in **system hardening, network security, and secure software development**
-- ✨ Digital Furry Artist ✨
 
 ---
 
