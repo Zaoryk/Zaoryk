@@ -22,8 +22,18 @@ Passionate about **software engineering, security, and system optimization**
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaoryk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaoryk&theme=tokyonight" alt="GitHub Streak" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Zaoryk&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Zaoryk&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)" 
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zaoryk&show_icons=true" alt="GitHub Stats" />
+  </picture>
 </p>
