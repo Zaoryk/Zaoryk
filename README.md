@@ -70,19 +70,3 @@ Passionate about **software engineering, security, and system optimization**
   </picture>
 </p>
 
-## Obsidian notes (SPANISH)
-
-<p align="center">
-  <!-- My Obsidian Notes -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=Zaoryk&repo=my-obsidian-notes&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=Zaoryk&repo=my-obsidian-notes&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)" 
-    />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zaoryk&repo=my-obsidian-notes&hide_border=true" alt="My Obsidian Notes Repo" />
-  </picture>
-</p>
