@@ -1,16 +1,17 @@
 # Hello, I'm Zaoryk
 
-**Computer Science Student** | **Cybersecurity**  
+**Computer Science Student** | **Cybersecurity** | **Art Director**  
 Passionate about **software engineering, security, and system optimization**
 
 ---
 
 ## About Me
 - Latino, on my 20s
+- Degree in **Art Direction** (first discipline)
 - Currently finishing my degree in **Computer Science**
 - Transitioning into **Cybersecurity** (focus on defensive security, incident response, and ethical hacking)
 - Interested in **system hardening, network security, and secure software development**
-- Digital Furry Artist
+- ✨ Digital Furry Artist ✨
 
 ---
 
