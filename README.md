@@ -75,18 +75,9 @@ Passionate about **software engineering, security, and system optimization**
 
 ---
 
-## Featured Repositories
-
-
-### [my-obsidian-notes](https://github.com/zaoryk/my-obsidian-notes)
-> Curated notes from coursework and projects, organized with Obsidian. Contains insights on CS fundamentals, algorithms, and cybersecurity techniques.  (IN SPANISH)
-> _Markdown format._
-
-### [Proyecto_INT_M.B.M](https://github.com/zaoryk/Proyecto_INT_M.B.M)
-> University project developed in Python. Explores automation challenges and integrates custom data analysis scripts for academic research.
-
-### [Zaoryk (“Hello World”)](https://github.com/zaoryk/Zaoryk)
-> My GitHub introduction: First repo showing basic workflow, README format, and self-study habits.
-
-### [Arduino.C.Projects](https://github.com/zaoryk/Arduino.C.Projects)
-> Collection of C++ projects built using Arduino. Includes home automation demos, sensor integration, and embedded systems mini-projects.
+## Popular Repositories
+1. [Prueba_1_Python_MC_MT](https://github.com/zaoryk/Prueba_1_Python_MC_MT) - Trabajos de M.C y M.T BACKEND
+2. [my-obsidian-notes](https://github.com/zaoryk/my-obsidian-notes) - Coursework notes (Spanish)
+3. [Proyecto_INT_M.B.M](https://github.com/zaoryk/Proyecto_INT_M.B.M) - Automation & data analysis
+4. [Zaoryk](https://github.com/zaoryk/Zaoryk) - Hello World
+5. [Arduino.C.Projects](https://github.com/zaoryk/Arduino.C.Projects) - Tiny (but mine!) Arduino projects
