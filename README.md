@@ -3,6 +3,8 @@
 **Computer Science Student** | **Cybersecurity** | **Art Director**  
 Passionate about **software engineering, security, and system optimization**
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=itchdotio&logoColor=white)](https://zaorii.itch.io/)
+
 ---
 
 ## About Me
