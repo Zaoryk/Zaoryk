@@ -81,3 +81,4 @@ Passionate about **software engineering, security, and system optimization**
 3. [Proyecto_INT_M.B.M](https://github.com/zaoryk/Proyecto_INT_M.B.M) - Automation & data analysis
 4. [Zaoryk](https://github.com/zaoryk/Zaoryk) - Hello World
 5. [Arduino.C.Projects](https://github.com/zaoryk/Arduino.C.Projects) - Tiny (but mine!) Arduino projects
+6. [Android App](https://github.com/marlontabi/APLICACIONES_MOVILES_PARA_IOT_SEGUNDA_ENTRAGA_MC_MT) - For IT, just an assignment
