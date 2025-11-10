@@ -24,6 +24,7 @@ Passionate about **software engineering, security, and system optimization**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -37,7 +38,7 @@ Passionate about **software engineering, security, and system optimization**
 <details>
 <summary><strong>Show Full Tech List</strong></summary>
 
-- **Languages:** Python, C++, C, JavaScript, PHP, SQL
+- **Languages:** Python, C++, C, JavaScript, PHP, SQL, Rust
 - **Web Frameworks:** HTML, CSS, Node.js, React, Django
 - **Databases:** MySQL, MongoDB
 - **Infrastructure:** Git, Docker, VirtualBox, AWS
