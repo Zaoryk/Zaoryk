@@ -10,8 +10,13 @@ Passionate about **software engineering, security, and system optimization**
 ## About Me
 - **Latino | 20s | Life-long Learner**
 - **B.A. Art Direction** (Completed)
-- **B.Sc. Computer Science** (In Progress)
-- **Cybersecurity Focus:** Defensive Security, Ethical Hacking, Incident Response
+- **B.Sc. Computer Science** (Completed)
+- **Cybersecurity** (Ongoing)
+
+**Cybersecurity Focus**
+- Defensive Security & Blue Team Practices  
+- Ethical Hacking & Offensive Fundamentals  
+- Incident Response & Threat Analysis 
 
 **Core Interests**
 - System Hardening & Network Defense
